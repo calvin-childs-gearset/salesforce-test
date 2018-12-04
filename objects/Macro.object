@@ -51,7 +51,7 @@
     </fields>
     <fields>
         <fullName>OwnerId</fullName>
-        <trackHistory>false</trackHistory>
+        <trackHistory>asdfasdf</trackHistory>
         <type>Lookup</type>
     </fields>
     <fields>

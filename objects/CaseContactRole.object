@@ -3,5 +3,5 @@
         <fullName>Role</fullName>
         <type>Picklist</type>
     </fields>
-    <enableFeeds>false</enableFeeds>
+    <enableFeeds>asdf</enableFeeds>
 </CustomObject>
