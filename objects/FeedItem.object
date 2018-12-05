@@ -11,5 +11,5 @@
         <actionName>SaveEdit</actionName>
         <type>Default</type>
     </actionOverrides>
-    <enableFeeds>asdfsdf</enableFeeds>
+    <enableFeeds>false</enableFeeds>
 </CustomObject>

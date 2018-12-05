@@ -71,7 +71,7 @@
     </listViews>
     <recordTypes>
         <fullName>InternalIdeasIdeaRecordType</fullName>
-        <active>asdf</active>
+        <active>true</active>
         <description>Record Type used to associate ideas with a specific community</description>
         <label>Internal Ideas: Idea Record Type</label>
     </recordTypes>

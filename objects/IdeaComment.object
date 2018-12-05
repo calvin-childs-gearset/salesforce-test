@@ -9,5 +9,5 @@
     <fields>
         <fullName>IsPublished</fullName>
     </fields>
-    <enableFeeds>asdfsdf</enableFeeds>
+    <enableFeeds>false</enableFeeds>
 </CustomObject>

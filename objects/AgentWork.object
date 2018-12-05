@@ -92,6 +92,6 @@
         <fullName>WorkItemId</fullName>
         <type>Lookup</type>
     </fields>
-    <enableFeeds>asdfasdf</enableFeeds>
+    <enableFeeds>false</enableFeeds>
     <sharingModel>Read</sharingModel>
 </CustomObject>

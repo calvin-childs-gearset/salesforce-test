@@ -37,7 +37,7 @@
     </actionOverrides>
     <fields>
         <fullName>AssetId</fullName>
-        <trackHistory>asdfasdf</trackHistory>
+        <trackHistory>false</trackHistory>
         <type>MasterDetail</type>
     </fields>
     <fields>

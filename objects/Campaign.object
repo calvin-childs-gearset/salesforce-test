@@ -198,7 +198,7 @@
         <displayType>link</displayType>
         <encodingKey>UTF-8</encodingKey>
         <hasMenubar>false</hasMenubar>
-        <hasScrollbars>asdfasdf</hasScrollbars>
+        <hasScrollbars>true</hasScrollbars>
         <hasToolbar>false</hasToolbar>
         <height>500</height>
         <isResizable>true</isResizable>

@@ -27,5 +27,5 @@
         <fullName>ParentOrigin</fullName>
         <type>Picklist</type>
     </fields>
-    <enableFeeds>asdfasd</enableFeeds>
+    <enableFeeds>false</enableFeeds>
 </CustomObject>

@@ -148,7 +148,7 @@
     </fields>
     <fields>
         <fullName>LeadSource</fullName>
-        <trackFeedHistory>asdfsdf</trackFeedHistory>
+        <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
     </fields>
     <fields>

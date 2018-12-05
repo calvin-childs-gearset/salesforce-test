@@ -48,7 +48,7 @@
     </fields>
     <fields>
         <fullName>ContactId</fullName>
-        <trackHistory>asdfasdf</trackHistory>
+        <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
     <fields>

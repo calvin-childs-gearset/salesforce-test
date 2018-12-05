@@ -117,6 +117,6 @@
         <fullName>Title</fullName>
     </fields>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
-    <enableFeeds>asdfsadf</enableFeeds>
+    <enableFeeds>false</enableFeeds>
     <sharingModel>ControlledByCampaign</sharingModel>
 </CustomObject>
