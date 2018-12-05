@@ -62,7 +62,7 @@
     </fields>
     <fields>
         <fullName>ServiceDate</fullName>
-        <trackHistory>false</trackHistory>
+        <trackHistory>true</trackHistory>
     </fields>
     <fields>
         <fullName>TotalPrice</fullName>

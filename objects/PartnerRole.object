@@ -3,5 +3,5 @@
         <fullName>ReverseRole</fullName>
         <type>Picklist</type>
     </fields>
-    <enableFeeds>false</enableFeeds>
+    <enableFeeds>true</enableFeeds>
 </CustomObject>

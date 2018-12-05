@@ -37,7 +37,7 @@
     </actionOverrides>
     <fields>
         <fullName>Description</fullName>
-        <trackHistory>false</trackHistory>
+        <trackHistory>true</trackHistory>
     </fields>
     <fields>
         <fullName>DisplayUrl</fullName>
