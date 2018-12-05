@@ -17,6 +17,6 @@
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
-    <enableFeeds>false</enableFeeds>
+    <enableFeeds>true</enableFeeds>
     <sharingModel>Private</sharingModel>
 </CustomObject>

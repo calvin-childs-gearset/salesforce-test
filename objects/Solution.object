@@ -57,7 +57,7 @@
         <type>Picklist</type>
     </fields>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
-    <enableFeeds>false</enableFeeds>
+    <enableFeeds>true</enableFeeds>
     <searchLayouts>
         <customTabListAdditionalFields>SOLUTION.ISSUE</customTabListAdditionalFields>
         <customTabListAdditionalFields>SOLUTION.SOLUTION_NUMBER</customTabListAdditionalFields>
