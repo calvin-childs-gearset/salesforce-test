@@ -155,9 +155,4 @@
         <searchResultsAdditionalFields>CONTACT.NAME</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ControlledByParent</sharingModel>
-    <listViews>
-        <fullName>AllAssets</fullName>
-        <filterScope>Everything</filterScope>
-        <label>All Assets</label>
-    </listViews>
 </CustomObject>

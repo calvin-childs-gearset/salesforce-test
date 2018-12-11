@@ -46,7 +46,7 @@
         <type>Lookup</type>
     </fields>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
-    <enableFeeds>true</enableFeeds>
+    <enableFeeds>false</enableFeeds>
     <sharingModel>Private</sharingModel>
     <listViews>
         <fullName>AllScorecards</fullName>

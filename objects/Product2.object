@@ -36,10 +36,6 @@
         <type>Default</type>
     </actionOverrides>
     <fields>
-        <fullName>Description</fullName>
-        <trackHistory>true</trackHistory>
-    </fields>
-    <fields>
         <fullName>DisplayUrl</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -78,6 +74,10 @@
         <fullName>StockKeepingUnit</fullName>
         <trackHistory>false</trackHistory>
     </fields>
+    <fields>
+        <fullName>Description</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
     <searchLayouts>
@@ -98,9 +98,4 @@
         <searchResultsAdditionalFields>PRODUCT2.FAMILY</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
-    <listViews>
-        <fullName>AllProducts</fullName>
-        <filterScope>Everything</filterScope>
-        <label>All Products</label>
-    </listViews>
 </CustomObject>

@@ -61,14 +61,14 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>ServiceDate</fullName>
-        <trackHistory>true</trackHistory>
-    </fields>
-    <fields>
         <fullName>TotalPrice</fullName>
     </fields>
     <fields>
         <fullName>UnitPrice</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>ServiceDate</fullName>
         <trackHistory>false</trackHistory>
     </fields>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>

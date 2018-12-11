@@ -37,10 +37,6 @@
         <fullName>Name</fullName>
     </fields>
     <fields>
-        <fullName>ParentId</fullName>
-        <type>MasterDetail</type>
-    </fields>
-    <fields>
         <fullName>ProfileUrl</fullName>
     </fields>
     <fields>
@@ -49,8 +45,12 @@
     <fields>
         <fullName>SourceApp</fullName>
     </fields>
+    <fields>
+        <fullName>ParentId</fullName>
+        <type>MasterDetail</type>
+    </fields>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
-    <enableFeeds>true</enableFeeds>
+    <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <searchLayouts>
         <customTabListAdditionalFields>Provider</customTabListAdditionalFields>

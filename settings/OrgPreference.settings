@@ -61,10 +61,6 @@
         <settingValue>true</settingValue>
     </preferences>
     <preferences>
-        <settingName>ScratchOrgManagementPref</settingName>
-        <settingValue>false</settingValue>
-    </preferences>
-    <preferences>
         <settingName>RemoveThemeBrandBanner</settingName>
         <settingValue>false</settingValue>
     </preferences>

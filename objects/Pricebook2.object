@@ -44,15 +44,15 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>IsStandard</fullName>
-        <trackHistory>true</trackHistory>
-    </fields>
-    <fields>
         <fullName>Name</fullName>
         <trackHistory>false</trackHistory>
     </fields>
+    <fields>
+        <fullName>IsStandard</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
-    <enableFeeds>true</enableFeeds>
+    <enableFeeds>false</enableFeeds>
     <searchLayouts>
         <customTabListAdditionalFields>PRICEBOOK2.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>PRICEBOOK2.DESCRIPTION</customTabListAdditionalFields>
