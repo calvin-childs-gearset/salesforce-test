@@ -74,7 +74,6 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
-    
     <applicationVisibilities>
         <application>standard__LightningInstrumentation</application>
         <default>false</default>
@@ -1645,13 +1644,13 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Account.testAccount</recordType>
+        <personAccountDefault>true</personAccountDefault>
+        <recordType>Account.Business_Account</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
-        <default>false</default>
-        <personAccountDefault>true</personAccountDefault>
-        <recordType>Account.Business_Account</recordType>
+        <default>true</default>
+        <recordType>Account.testAccount</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <tabVisibilities>

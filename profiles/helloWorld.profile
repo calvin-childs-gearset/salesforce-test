@@ -56,7 +56,6 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
-    
     <applicationVisibilities>
         <application>standard__AppLauncher</application>
         <default>true</default>
@@ -1728,11 +1727,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Account.testAccount</recordType>
-        <visible>true</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>Account.Business_Account</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
@@ -1740,6 +1734,11 @@
         <default>false</default>
         <personAccountDefault>true</personAccountDefault>
         <recordType>Account.NewRecordType</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Account.testAccount</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
