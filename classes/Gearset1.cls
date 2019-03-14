@@ -1,3 +1,3 @@
-﻿    public class Gearset1 {
+    public class Gearset1 {
 
 }
