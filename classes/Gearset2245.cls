@@ -1,4 +1,4 @@
-﻿public class Gearset2245 {
+public class Gearset2245 {
    public static void applyDiscount(Book__c[] books) {
       for (Book__c b :books){
          b.Price__c *= 0.9;
