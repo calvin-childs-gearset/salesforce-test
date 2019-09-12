@@ -3,5 +3,6 @@
         <fullName>Role</fullName>
         <type>Picklist</type>
     </fields>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
 </CustomObject>
