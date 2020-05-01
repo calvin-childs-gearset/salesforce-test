@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
-    <custom>false</custom>
-    <userLicense>Customer Portal Manager Standard</userLicense>
     <applicationVisibilities>
         <application>standard__LightningSales</application>
         <default>false</default>
@@ -72,6 +70,7 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+    <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
         <field>Asset.PurchaseDate</field>
@@ -1793,6 +1792,7 @@
         <tab>standard-Opportunity</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
+    <userLicense>Customer Portal Manager Standard</userLicense>
     <userPermissions>
         <enabled>true</enabled>
         <name>CreateTopics</name>
